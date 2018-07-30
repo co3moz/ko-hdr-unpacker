@@ -1,0 +1,32 @@
+{
+  "name": "ko-hdr-unpacker",
+  "version": "1.0.0",
+  "description": "Knight Online hdr file unpacker",
+  "main": "lib/hdrunpack.js",
+  "scripts": {
+    "test": "node test/test_all"
+  },
+  "bin": {
+    "hdrunpack": "./bin/hdrunpack.js"
+  },
+  "keywords": [
+    "knight",
+    "online",
+    "hdrunpack",
+    "hdr",
+    "unpack"
+  ],
+  "author": "co3moz",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "fs-extra": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-plugin-node": "^6.0.1"
+  },
+  "engines": {
+    "node": ">=10.4.0"
+  }
+}
