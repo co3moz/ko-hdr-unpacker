@@ -4,6 +4,7 @@ There are hdr files in knight online installation folder. These files contain dx
 
 > If you open launcher while output folder exists, launcher will insert all files to the .hdr and .src. So be carefull before opening launcher. You may accidentally increase these file's size
 
+![](doc/hdrunpack.png)
 
 Install
 ----------------
