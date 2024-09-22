@@ -1,6 +1,6 @@
 {
   "name": "ko-hdr-unpacker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Knight Online hdr file unpacker",
   "main": "lib/hdrunpack.js",
   "scripts": {
